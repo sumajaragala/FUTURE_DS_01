@@ -14,6 +14,8 @@ The objective of this project is to analyze business sales data and generate mea
 * Power BI
 * Microsoft Excel
 * Superstore Dataset
+* DAX
+* Data Cleaning and Visualization.
 
 ## Key Performance Indicators (KPIs)
 
